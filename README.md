@@ -29,6 +29,12 @@ Verified Execution is a public architecture and protocol repository for authoriz
 
 **Evidence repository:** [cpbrands/VerifiedExecution](https://github.com/cpbrands/VerifiedExecution)
 
+### [NanoClaw Dashboard: Finding a Broken Install Path in a Buildable TypeScript Repository](case-studies/nanoclaw-dashboard.md)
+
+A read-only shadow audit of an unfamiliar public repository showed that successful installation and compilation did not guarantee accurate onboarding documentation. The audit identified a package-identity migration that left the README install command pointing to a package that returned `404 Not Found` from the public registry.
+
+**Evidence repository:** [nanocoai/nanoclaw-dashboard](https://github.com/nanocoai/nanoclaw-dashboard)
+
 ## Operating Principle
 
 > An AI-generated statement is not evidence. Repository contents, commit history, diffs, check output, and observed behavior are evidence.

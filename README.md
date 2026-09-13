@@ -45,15 +45,15 @@ This portfolio demonstrates repository-state analysis, documentation integrity, 
 
 It does not claim independent senior full-stack engineering, production deployment, security certification, penetration testing, database migration, or operation of live customer systems.
 
-## Starter Engagement
+## [Repository Clarity Audit — Fixed Package](offers/repository-clarity-audit.md)
 
-The initial Repository Clarity Audit is a fixed-scope review of one small repository. The owner receives:
+The initial Repository Clarity Audit is a fixed-scope review of one small repository or one agreed documentation area in a larger repository. The owner receives:
 
 1. An exact audit baseline.
 2. A repository and authority map.
 3. Evidence-backed findings.
 4. A prioritized gap register.
 5. A plain-English final report.
-6. When agreed, one reviewable documentation pull request.
+6. One bounded documentation pull request when agreed.
 
-Production changes, deployment, security certification, and major code repair are outside the starter audit.
+The package is USD $149 with a three-business-day turnaround after scope confirmation. Production changes, deployment, security certification, and major code repair are outside the starter audit.
